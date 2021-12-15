@@ -1,12 +1,6 @@
-from GitHub import ReadMe
-
-class K4(ReadMe):
-
-    def __init__(self):
         self.username = "K4"
-        self.contacts = {
+contacts = {
             "Discord": "k4#8888"
-        }
         self.alises = {
             "K4oS"
             "K4"
