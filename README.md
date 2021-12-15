@@ -1,3 +1,7 @@
+from GitHub import README.md
+
+class K4(README.md):
+
 {
 [
 Main Nickname: [ "K4" ]
