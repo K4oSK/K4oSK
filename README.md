@@ -1,3 +1,4 @@
+{
 [
 Main Nickname: [ "K4" ]
 
@@ -16,3 +17,4 @@ Occupation: "[ None" ]
 
 Self Projects: [ "https://github.com/K4-Projects" ]
 ]
+}
